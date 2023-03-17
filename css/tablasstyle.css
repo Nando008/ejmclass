@@ -1,0 +1,9 @@
+
+img{
+    width: 200px; /*Ancho de la imagen*/
+    height: 200px; /*Alto de la imag*/
+}
+
+img:hover {
+    background-color: hotpink;
+}

@@ -1,1 +1,1 @@
-alert("hola bienvenido")
+alert("Sin conexión")
