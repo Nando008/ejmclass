@@ -1,3 +1,31 @@
 body {
-    background-color: aliceblue;
+    background-color: green;
+}
+
+.imgcud {
+   display: flex;
+   justify-content: center;
+}
+
+.imagen {
+    margin-right: 100px;
+    width: 200px;
+    height: 250px;
+}
+
+.nombre{
+    margin-right: 60px;
+}
+
+.correo {
+    margin-right: 60px;
+}
+
+.fisico{
+    margin-right: 60px;
+}
+
+.videomul{
+    width: 300px;
+    height: 300px;
 }

@@ -22,3 +22,7 @@ input{
 }
 
 /*.para input # para id*/
+
+body{
+    background-color: aqua;
+}
